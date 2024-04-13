@@ -10,6 +10,7 @@ public class Exercicio2 {
         double laranja = 10.50;
         double uva = 12.99;
         double soma = laranja + uva;
+        System.out.print("A soma do valor da laranja e da uva é : " + soma);
         
     }
 }
