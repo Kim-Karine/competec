@@ -7,7 +7,9 @@
 public class Exercicio2 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
-
+        double laranja = 10.50;
+        double uva = 12.99;
+        double soma = laranja + uva;
         
     }
 }
